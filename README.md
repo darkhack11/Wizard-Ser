@@ -1,7 +1,7 @@
 # Wizard-Ser
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://downloadwap.com/thumbs2/wallpapers/p2ls/2019/anime/45/67b79a9a13486792.jpg" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -76,7 +76,7 @@ Click WA logo to Join Support Group 👇
 ## Developers
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![SudoAnirudh](https://downloadwap.com/thumbs2/wallpapers/p2ls/2019/anime/45/67b79a9a13486792.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
 ----|
    `Base, Bug Fixes, Modules`
 
@@ -92,11 +92,11 @@ Click WA logo to Join Support Group 👇
 ----|
    `Bug Fixes, Modules, Commits`
 
-[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
+[![JOKER_SER](https://downloadwap.com/thumbs2/wallpapers/p2ls/2019/anime/45/67b79a9a13486792.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
 ----|
    `Bug Fixes, Modules, Commits`
 
-[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
+[![SafwanGanz](https://downloadwap.com/thumbs2/wallpapers/p2ls/2019/anime/45/67b79a9a13486792.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
 ----|
    `Bug Fixes, Modules`
 
